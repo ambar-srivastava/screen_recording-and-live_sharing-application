@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Ambar-Srivastava-s-workspace-kdvt9g.eu-central-1.xata.sh/db/ambar_recordcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
